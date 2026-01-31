@@ -21,7 +21,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/Ogrenci-Kayit-Sistemi.git](https://github.com/KULLANICI_ADINIZ/Ogrenci-Kayit-Sistemi.git)
+    git clone https://github.com/Cinargenc/INTRODUCTION-TO-ALGORITHMS-AND-PROGRAMMING-PROJECT.git
     ```
 2.  Derleyici (GCC) ile derleyin:
     ```bash
@@ -35,7 +35,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 Projenin detaylı teknik raporuna, akış şemalarına ve algoritma analizine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-[Proje Raporunu Görüntüle (PDF)](ProjeRaporu.pdf)
+[Proje Raporunu Görüntüle (docx)]https://docs.google.com/document/d/1K0oY0q87X0ffrVBs8ZlqDcOJqujaB6ymLVFxzz6t2u8/edit?usp=sharing
 
 ---
 **Not:** Program ilk kez çalıştırıldığında `veri.dat` dosyası otomatik olarak oluşturulacaktır.
